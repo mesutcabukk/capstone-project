@@ -3,7 +3,7 @@ body {
   padding-top: 50px;
 }
 
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
+.carousel-inner .item h3, 
+.carousel-inner .item h4{
+  text-shadow: 1px 1px 1px #666;
 }
