@@ -1,2 +1,5 @@
-# quickstart-bootstrap
-Basic HTML5/Bootstrap template
+# Capstone Project
+My Lovely dishes and me
+
+[Visit my page](https://mesutcabukk.github.io/capstone-project/index.html)
+ 
