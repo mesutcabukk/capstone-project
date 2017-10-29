@@ -1,5 +1,10 @@
 /* Application Styles */
+
+@import url(https://fonts.googleapis.com/css?family=Quicksand:400,700);
+
 body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight:700;
   padding-top: 50px;
 }
 
@@ -11,6 +16,8 @@ body {
 
 .navbar-brand img{
   height: 35px;
+  position: relative;
+  top: -5px;
 }
 
 
@@ -27,6 +34,23 @@ footer{
 }
 
 
-.container{
+body >  .container{
   margin-bottom: 80px;
+}
+
+
+
+/********************************/
+/*          Media Queries       */
+/********************************/
+@media screen and (min-width: 980px){
+
+}
+@media screen and (max-width: 640px){
+
+}
+
+.slogan{
+  font-size: 34px;
+  font-family: 'Quicksand'
 }
