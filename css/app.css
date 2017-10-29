@@ -7,3 +7,26 @@ body {
 .carousel-inner .item h4{
   text-shadow: 1px 1px 1px #666;
 }
+
+
+.navbar-brand img{
+  height: 35px;
+}
+
+
+footer{
+  position:fixed;
+  bottom: 0px;
+  left: 0px;
+  padding: 5px;
+  background: #333;
+  color: #f3f3f3;
+  width: 100%;
+  padding: 2px;
+  text-align: right;
+}
+
+
+.container{
+  margin-bottom: 80px;
+}
